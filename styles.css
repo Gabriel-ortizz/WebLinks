@@ -91,7 +91,7 @@ ul li a {
 
 /* pseudo-class */
 ul li a:hover {
-  background: var(--primary-color-dark);
+  background: var(--bg-color);
 }
 
 footer {
